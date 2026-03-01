@@ -67,7 +67,7 @@ int third_largest(int *arr,int size)
     }
     return rd;
 }
-//                                                         find the 2nd largest number in the array 
+//                                           ----------------------------              find the 2nd largest number in the array 
 #include <stdio.h>
 
 int sec_largest(int [], int);
@@ -270,4 +270,5 @@ int is_prime(int n)
     {
         return 1;//prine
     }
+
 }
