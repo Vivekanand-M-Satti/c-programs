@@ -123,7 +123,7 @@ int sec_largest(int *arr,int size)
     }
     return nd;
 }
-//                            wap to remove the duplicate the in the array with out modifying the array
+//                                                          wap to remove the duplicate the in the array with out modifying the array
 #include <stdio.h>
 
 void fun(int arr1[], int size, int arr2[], int *new_size);
@@ -272,4 +272,5 @@ int is_prime(int n)
     }
 
 }
+
 
