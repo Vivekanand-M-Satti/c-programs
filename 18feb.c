@@ -24,7 +24,7 @@ int main()
 }
 int  my_islower(char a)
 {
-    if (a<='z'&&a>='a')
+    if (a<='z'&&a>='a')//
     {
         return 1;
     }
@@ -213,4 +213,5 @@ void negative_fibonacci(int limit,int b,int a, int c)
     b=c;
     negative_fibonacci(limit,b,a,c);
     
+
 }
