@@ -1,6 +1,7 @@
 //-------------------------------------------1. Print only even numbe-------------------------
 
 /*#include<stdio.h>
+#include<string.h>
 int main()
 {
     int size;
@@ -255,3 +256,4 @@ int main()
 }
 
      
+
